@@ -19,7 +19,7 @@ $ cd docker-nginx-hello-world
 $ sudo docker-compose up -d
 ```
 
-Now, assuming we found out the IP address and the port that mapped to port 80 on the container, in a browser we can make a request to the webserver and get the page below: 
+Now, assuming we found out the IP address and the port that mapped to port 83 on the container, in a browser we can make a request to (http://localhost:83) and get the page below: 
 
 ![hello_world](./hello_world.png)
 
